@@ -1,6 +1,6 @@
 # adversarial-examples
 
-The purpose of this project is dual: primarily, to build a CNN model to accurately classify input images from the MNIST and CIFAR10 datasets; as an extension, to create adversarial examples that can trick the CNN into mis-classifying the input.
+The purpose of this project is dual: primarily, to build a CNN model that can accurately classify input images from the MNIST and CIFAR10 datasets; as an extension, to create adversarial examples that can trick the CNN into mis-classifying the input.
 
 ![Illusion](/aes/illusion.jpeg)
 
